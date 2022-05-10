@@ -1,0 +1,20 @@
+.container {
+    margin-top: 80px;
+    margin-bottom: 150px;
+  }
+  
+h1 {
+  text-align: center;
+}
+
+.work:hover {
+  -ms-transform: scale(1.02); /* IE 9 */
+  -webkit-transform: scale(1.02); /* Safari 3-8 */
+  transform: scale(1.02);
+}
+
+.work1:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
